@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("feature-average")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71f922f3d56ec15c7e7996a85833137592abc7de")]
 [assembly: System.Reflection.AssemblyProductAttribute("feature-average")]
 [assembly: System.Reflection.AssemblyTitleAttribute("feature-average")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
