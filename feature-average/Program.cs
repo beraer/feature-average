@@ -8,3 +8,9 @@
 
 int[] arr = {1,2,3,4,5,6,7,8,9};
 Console.WriteLine(returnAverage(arr));
+
+static int returnMax(int[] ar)
+{
+    return ar.Max();
+}
+Console.WriteLine(returnMax(arr));
